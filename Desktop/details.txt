@@ -1,0 +1,3 @@
+echo "Name: [Your Name]
+Father's Name: [Your Father's Name]
+Area of Specialization: [Your Area of Specialization]"
